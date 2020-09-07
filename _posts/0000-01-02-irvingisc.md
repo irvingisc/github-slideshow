@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Este es el primer cambio realizado para este curso
 Use the left arrow to go back!
